@@ -1,0 +1,4 @@
+Purchase Order Date = Delivery Date - (Vendor lead    
+    time + 
+     Purchase Lead Time + Sales Safety Days) 
+    Schedule Date = Delivery Date - Sales Safety Days 

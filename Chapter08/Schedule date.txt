@@ -1,0 +1,3 @@
+Purchase Order Date = Delivery Date - Vendor Lead  
+    time 
+    Schedule Date = Delivery Date 

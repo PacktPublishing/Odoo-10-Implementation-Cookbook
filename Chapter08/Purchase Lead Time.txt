@@ -1,0 +1,4 @@
+Purchase Order Date = Delivery Date - (Vendor lead 
+    time + 
+     Purchase Lead Time) 
+    Schedule Date = Delivery Date - Purchase Lead Time 

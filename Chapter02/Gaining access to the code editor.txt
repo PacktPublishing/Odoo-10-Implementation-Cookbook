@@ -1,0 +1,2 @@
+<attribute name="attrs">{'invisible': ['|', 
+     ('customer','=',False), ('supplier','=',False)]}  </attribute>

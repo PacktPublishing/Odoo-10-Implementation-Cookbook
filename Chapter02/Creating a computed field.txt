@@ -1,0 +1,2 @@
+ for record in self: 
+    record['x_studio_field_wtvw3'] = record.debit - record.credit 
