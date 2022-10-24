@@ -25,3 +25,7 @@ In order to successfully practice what is demonstrated in this book, you will ne
 * [Mastering Java 9](https://www.packtpub.com/application-development/mastering-java-9?utm_source=github&utm_medium=repository&utm_campaign=9781786468734)
 
 * [Modular Programming in Java 9](https://www.packtpub.com/application-development/modular-programming-java-9?utm_source=github&utm_medium=repository&utm_campaign=9781787126909)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787123427">https://packt.link/free-ebook/9781787123427 </a> </p>
